@@ -82,7 +82,7 @@
         "nyc": "^15.1.0",
         "rollup-plugin-license": "^3.3.1",
         "typescript": "^5.4.5",
-        "vite": "^5.2.8",
+        "vite": "^5.2.14",
         "vite-plugin-babel-macros": "^1.0.6",
         "vite-plugin-istanbul": "^6.0.0"
     }
